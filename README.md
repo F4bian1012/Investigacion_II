@@ -1,4 +1,4 @@
-# PROYECTO DE INVESTIGACION I
+# PROYECTO DE INVESTIGACION II
 Este repositorio contiene los materiales desarrollados durante el curso de PROYECTO DE INVESTIGACION I, perteneciente al programa de Ingeniería Mecatrónica de la Escuela Tecnológica Instituto Técnico Central.
 
 En cada folder correspondiente a cada sesión, se encuentran:
